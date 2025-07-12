@@ -4,8 +4,37 @@ format: html
 page-layout: full
 ---
 
-![](images/profile_amirah.jpg){width=180px height=180px style="object-fit: cover; border-radius: 50%; margin-bottom: 10px;"}
+<div style="display: flex; align-items: center; gap: 40px; margin-bottom: 30px;">
 
+  <!-- Profile Image -->
+  <img src="images/profile_amirah.jpg" width="180px" height="180px"
+       style="border-radius: 50%; object-fit: cover;" alt="Amirah Hamid">
+
+  <!-- Text and Buttons -->
+  <div>
+
+  ### Amirah Hamid
+
+  I'm **Amirah Hamid**. Let's discover the knowledge with me 🌱
+
+  <div style="margin-top: 10px; display: flex; gap: 10px;">
+
+  <a href="mailto:mirahhamid5496@gmail.com" style="text-decoration: none;">
+    <button style="padding: 6px 12px; border: none; background-color: #e63946; color: white; border-radius: 6px;">Email</button>
+  </a>
+
+  <a href="https://github.com/mirahhamid" target="_blank" style="text-decoration: none;">
+    <button style="padding: 6px 12px; border: none; background-color: #1a1a1a; color: white; border-radius: 6px;">GitHub</button>
+  </a>
+
+  <a href="https://www.linkedin.com/in/nur-amirah-abd-hamid/" target="_blank" style="text-decoration: none;">
+    <button style="padding: 6px 12px; border: none; background-color: #0077b5; color: white; border-radius: 6px;">LinkedIn</button>
+  </a>
+
+  </div>
+  </div>
+
+</div>
 
 # Hi, I'm Nur Amirah 👋
 
