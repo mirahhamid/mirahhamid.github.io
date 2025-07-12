@@ -4,7 +4,7 @@ format: html
 page-layout: full
 ---
 
-![](images/profile.JPEG){width=180px style="border-radius: 50%; margin-bottom: 10px;"}
+![](images/profile_amirah.jpg){width=180px style="border-radius: 50%; margin-bottom: 10px;"}
 
 # Hi, I'm Nur Amirah 👋
 
