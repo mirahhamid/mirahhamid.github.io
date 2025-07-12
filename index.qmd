@@ -14,8 +14,8 @@ page-layout: full
   <div>
 
   <!-- Name with Longer Line -->
-  <h1 style="margin: 0; font-size: 2.2em;">Amirah Hamid</h1>
-  <hr style="border: none; border-top: 3px solid #444; width: 300px; margin: 8px 0;">
+  <h1 style="margin: 0; font-size: 2em;">Amirah Hamid</h1>
+  <hr style="border: none; border-top: 3px solid #444; width: 400px; margin: 8px 0;">
 
   <!-- Intro -->
   <p style="margin-top: 5px;">
