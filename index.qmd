@@ -1,7 +1,51 @@
 ---
-title: "mirahhamid.github.io"
+title: "mir"
+format: html
+page-layout: full
 ---
 
-This is a Quarto website.
+![](images/profile.jpg){width=180px style="border-radius: 50%; margin-bottom: 10px;"}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+# Hi, I'm Nur Amirah 👋
+
+I'm a **PhD Candidate in Computer Science** at the *School of Digital Science, Universiti Brunei Darussalam*, under the His Majesty’s Graduate Scholarship. My research focuses on deep learning for **Alzheimer's disease prediction** using structural MRI and clinical cognitive scores.
+
+---
+
+## 🧬 Biography
+
+A passionate researcher with strong foundations in **AI**, **deep learning**, and **medical imaging**, I enjoy applying interpretable models to real-world clinical data. I have experience working with CNNs, Vision Transformers (ViT), and explainability tools like SHAP and Grad-CAM.
+
+Previously, I served as a Research Assistant at **UTM CAIRO**, contributing to AI modeling and data analytics for semiconductor projects. I also have experience teaching undergraduate programming and data analytics.
+
+---
+
+## 🎓 Education
+
+- **PhD in Computer Science** – *Universiti Brunei Darussalam* (2023 – Present)  
+- **MPhil. in Electronic System Engineering** – *MJIIT, UTM* (2019 – 2022)  
+  - Thesis: *Predicting Neuropsychological Test Scores based on Structural MRI using DL & XAI*  
+- **B.Eng. in Electronic System Engineering** – *MJIIT, UTM* (2015 – 2019)  
+  - Final Year Project: *Livestock Monitoring Using One-Shot Learning*
+
+---
+
+## 🔬 Research Interests
+
+- Alzheimer’s Disease Prediction
+- Deep Learning for Medical Imaging
+- Multi-task Learning & Regression
+- Vision Transformers (ViT, SwinUNETR)
+- Explainable AI (SHAP, Grad-CAM)
+
+---
+
+## 📬 Connect with Me
+
+<div style="display: flex; gap: 10px; margin-top: 10px;">
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:mirahhamid5496@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/mirahhamid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/nur-amirah-abd-hamid/)
+
+</div>
