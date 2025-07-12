@@ -13,29 +13,27 @@ page-layout: full
   <!-- Text and Buttons -->
   <div>
 
-  # Amirah Hamid
+  <h2 style="margin: 0;">Amirah Hamid</h2>
 
- 
+  <p style="margin-top: 5px;">I'm <strong>Amirah Hamid</strong>. Let's discover the knowledge with me 🌱</p>
 
   <div style="margin-top: 10px; display: flex; gap: 10px;">
 
   <a href="mailto:mirahhamid5496@gmail.com" style="text-decoration: none;">
-    <button style="padding: 6px 12px; border: #1a1a1a ; background-color: none; color: black; border-radius: 6px;">Email</button>
+    <button style="padding: 6px 12px; border: 1px solid #1a1a1a; background-color: transparent; color: black; border-radius: 6px;">Email</button>
   </a>
 
   <a href="https://github.com/mirahhamid" target="_blank" style="text-decoration: none;">
-    <button style="padding: 6px 12px; border: #1a1a1a; background-color: none; color: black; border-radius: 6px;">GitHub</button>
+    <button style="padding: 6px 12px; border: 1px solid #1a1a1a; background-color: transparent; color: black; border-radius: 6px;">GitHub</button>
   </a>
 
   <a href="https://www.linkedin.com/in/nur-amirah-abd-hamid/" target="_blank" style="text-decoration: none;">
-    <button style="padding: 6px 12px; border: #1a1a1a; background-color: none; color: black; border-radius: 6px;">LinkedIn</button>
+    <button style="padding: 6px 12px; border: 1px solid #1a1a1a; background-color: transparent; color: black; border-radius: 6px;">LinkedIn</button>
   </a>
 
   </div>
 
-    I'm **Amirah Hamid**. Let's discover the knowledge with me 🌱
   </div>
-
 </div>
 
 # Hi, I'm Nur Amirah 👋
