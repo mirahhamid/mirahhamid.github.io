@@ -13,9 +13,11 @@ page-layout: full
   <!-- Text Section -->
   <div>
 
+  <!-- Name with Longer Line -->
   <h1 style="margin: 0; font-size: 2.2em;">Amirah Hamid</h1>
-  <hr style="border: none; border-top: 3px solid #444; width: 120px; margin: 8px 0;">
+  <hr style="border: none; border-top: 3px solid #444; width: 300px; margin: 8px 0;">
 
+  <!-- Intro -->
   <p style="margin-top: 5px;">
     Selamat Datang (Welcome!) to my personal knowledge repository.  
     Join me on a journey of exploration and discovery.
@@ -24,7 +26,7 @@ page-layout: full
   </div>
 </div>
 
-<!-- Badge Links below -->
+<!-- Badge Section (Optional below this if you want) -->
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:mirahhamid5496@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/mirahhamid)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/nur-amirah-abd-hamid/)
