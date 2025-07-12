@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Hi, I’m Nur Amirah 👋",
     "section": "",
-    "text": "Selamat Datang (Welcome!) to my knowledge storage box!\nLet’s discover the knowledge with me."
+    "text": "&lt;!-- Name with Bigger Font --&gt;\n&lt;h1 style=\"margin: 0; font-size: 2.2em;\"&gt;Amirah Hamid&lt;/h1&gt;\n\n&lt;!-- Thick Line --&gt;\n&lt;hr style=\"border: none; border-top: 3px solid #444; width: 120px; margin: 8px 0;\"&gt;\n\n&lt;!-- Intro Text --&gt;\n&lt;p style=\"margin-top: 5px;\"&gt;\n  Selamat Datang (Welcome!) to my personal knowledge repository. Join me on a journey of exploration and discovery.\n&lt;/p&gt;\n\n&lt;!-- Badge Links --&gt;\n&lt;div style=\"margin-top: 10px; display: flex; gap: 10px;\"&gt;\n\n  [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:mirahhamid5496@gmail.com)\n  [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/mirahhamid)\n  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/nur-amirah-abd-hamid/)\n\n&lt;/div&gt;"
   },
   {
     "objectID": "index.html#biography",

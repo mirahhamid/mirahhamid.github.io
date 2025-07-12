@@ -13,20 +13,25 @@ page-layout: full
   <!-- Text and Badges -->
   <div>
 
-  <h2 style="margin: 0;">Amirah Hamid</h2>
+    <!-- Name with Bigger Font -->
+    <h1 style="margin: 0; font-size: 2.2em;">Amirah Hamid</h1>
 
-  <p style="margin-top: 5px;">
-    Selamat Datang (Welcome!) to my knowledge storage box!  
-    Let's discover the knowledge with me.
-  </p>
+    <!-- Thick Line -->
+    <hr style="border: none; border-top: 3px solid #444; width: 120px; margin: 8px 0;">
 
-  <div style="margin-top: 10px; display: flex; gap: 10px;">
+    <!-- Intro Text -->
+    <p style="margin-top: 5px;">
+      Selamat Datang (Welcome!) to my personal knowledge repository. Join me on a journey of exploration and discovery.
+    </p>
 
-  [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:mirahhamid5496@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/mirahhamid)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/nur-amirah-abd-hamid/)
+    <!-- Badge Links -->
+    <div style="margin-top: 10px; display: flex; gap: 10px;">
 
-  </div>
+      [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:mirahhamid5496@gmail.com)
+      [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/mirahhamid)
+      [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/nur-amirah-abd-hamid/)
+
+    </div>
 
   </div>
 </div>
