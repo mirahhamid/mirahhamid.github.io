@@ -10,31 +10,25 @@ page-layout: full
   <img src="images/profile_amirah.jpg" width="180px" height="180px"
        style="border-radius: 50%; object-fit: cover;" alt="Amirah Hamid">
 
-  <!-- Text and Badges -->
+  <!-- Text Section -->
   <div>
 
-    <!-- Name with Bigger Font -->
-    <h1 style="margin: 0; font-size: 2.2em;">Amirah Hamid</h1>
+  <h1 style="margin: 0; font-size: 2.2em;">Amirah Hamid</h1>
+  <hr style="border: none; border-top: 3px solid #444; width: 120px; margin: 8px 0;">
 
-    <!-- Thick Line -->
-    <hr style="border: none; border-top: 3px solid #444; width: 120px; margin: 8px 0;">
-
-    <!-- Intro Text -->
-    <p style="margin-top: 5px;">
-      Selamat Datang (Welcome!) to my personal knowledge repository. Join me on a journey of exploration and discovery.
-    </p>
-
-    <!-- Badge Links -->
-    <div style="margin-top: 10px; display: flex; gap: 10px;">
-
-      [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:mirahhamid5496@gmail.com)
-      [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/mirahhamid)
-      [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/nur-amirah-abd-hamid/)
-
-    </div>
+  <p style="margin-top: 5px;">
+    Selamat Datang (Welcome!) to my personal knowledge repository.  
+    Join me on a journey of exploration and discovery.
+  </p>
 
   </div>
 </div>
+
+<!-- Badge Links below -->
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:mirahhamid5496@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/mirahhamid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/nur-amirah-abd-hamid/)
+
 
 
 # Hi, I'm Nur Amirah 👋
