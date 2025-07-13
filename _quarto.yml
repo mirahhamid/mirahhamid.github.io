@@ -7,7 +7,14 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: research.qmd
+        text: Research
+      - href: Publications.qmd
+        text: Publications
+      - href: LifeHub.qmd
+        text: Life Hub
+  page-footer:
+    left: "Copyright 2024 © Nur Amirah. Developed with [Quarto](https://quarto.org)"
 
 format:
   html:
@@ -16,6 +23,3 @@ format:
       - brand
     css: styles.css
     toc: true
-
-
-

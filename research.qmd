@@ -1,0 +1,24 @@
+
+---
+title: ""
+format: html
+page-layout: full
+---
+
+<div style="display: flex; align-items: center; gap: 40px; margin-bottom: 30px;">
+
+
+  <!-- Text Section -->
+  <div>
+
+  <div style="font-size: 2.2em; font-weight: bold; margin: 0;">Research</div>
+  <hr style="border: none; border-top: 3px solid #444; width: 500px; margin: 8px 0;">
+
+  </div>
+
+  <img src="images/research_analysis.png" width="180px" height="180px"
+       style="border-radius: 50%; object-fit: cover;" alt="Coming Soon">
+
+  <p style="margin-top: 20px; font-size: 1.2em;">Coming Soon!</p>
+
+</div>

@@ -4,7 +4,6 @@ format: html
 page-layout: full
 ---
 
-::: {=html}
 <div style="display: flex; align-items: center; gap: 40px; margin-bottom: 30px;">
 
   <!-- Profile Image -->
@@ -12,72 +11,55 @@ page-layout: full
        style="border-radius: 50%; object-fit: cover;" alt="Amirah Hamid">
 
   <!-- Text Section -->
-  <div style="flex: 1;">
-    <h1 style="margin: 0; font-size: 2.2em;">Amirah Hamid</h1>
-    <hr style="border: none; border-top: 3px solid #444; width: 100%; margin: 8px 0;">
-    <p style="margin-top: 5px;">
-      Selamat Datang (Welcome!) to my personal knowledge repository.<br>
-      Join me on a journey of exploration and discovery.
-    </p>
+  <div>
 
-    <!-- Badges -->
-    <div style="margin-top: 10px; display: flex; gap: 10px;">
-      <a href="mailto:mirahhamid5496@gmail.com">
-        <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" alt="Email">
-      </a>
-      <a href="https://github.com/mirahhamid" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github" alt="GitHub">
-      </a>
-      <a href="https://www.linkedin.com/in/nur-amirah-abd-hamid/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn">
-      </a>
-    </div>
+  <div style="font-size: 2.2em; font-weight: bold; margin: 0;">Amirah Hamid</div>
+  <hr style="border: none; border-top: 3px solid #444; width: 500px; margin: 8px 0;">
+
+  <p style="margin-top: 5px;">
+    Welcome to my personal knowledge repository.  
+    Join me on a journey of exploration and discovery.
+  </p>
+
   </div>
 </div>
-:::
 
-
-# Hi, I'm Nur Amirah 👋
-
-I'm a **PhD Candidate in Computer Science** at the *School of Digital Science, Universiti Brunei Darussalam*, under the His Majesty’s Graduate Scholarship. My research focuses on deep learning for **Alzheimer's disease prediction** using structural MRI and clinical cognitive scores.
-
----
-
-## 🧬 Biography
-
-A passionate researcher with strong foundations in **AI**, **deep learning**, and **medical imaging**, I enjoy applying interpretable models to real-world clinical data. I have experience working with CNNs, Vision Transformers (ViT), and explainability tools like SHAP and Grad-CAM.
-
-Previously, I served as a Research Assistant at **UTM CAIRO**, contributing to AI modeling and data analytics for semiconductor projects. I also have experience teaching undergraduate programming and data analytics.
-
----
-
-## 🎓 Education
-
-- **PhD in Computer Science** – *Universiti Brunei Darussalam* (2023 – Present)  
-- **MPhil. in Electronic System Engineering** – *MJIIT, UTM* (2019 – 2022)  
-  - Thesis: *Predicting Neuropsychological Test Scores based on Structural MRI using DL & XAI*  
-- **B.Eng. in Electronic System Engineering** – *MJIIT, UTM* (2015 – 2019)  
-  - Final Year Project: *Livestock Monitoring Using One-Shot Learning*
-
----
-
-## 🔬 Research Interests
-
-- Alzheimer’s Disease Prediction
-- Deep Learning for Medical Imaging
-- Multi-task Learning & Regression
-- Vision Transformers (ViT, SwinUNETR)
-- Explainable AI (SHAP, Grad-CAM)
-
----
-
-## 📬 Connect with Me
-
-<div style="display: flex; gap: 10px; margin-top: 10px;">
-
+<!-- Badge Links below -->
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:mirahhamid5496@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/mirahhamid)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/nur-amirah-abd-hamid/)
 
-</div>
+
+---
+
+## Biography
+
+I'm a PhD Candidate in Computer Science at the School of Digital Science, Universiti Brunei Darussalam. A passionate researcher with strong foundations in **AI**, **deep learning** and **computer vision**. I have experience working with CNNs, Vision Transformers (ViT), and explainability tools like SHAP and Grad-CAM.
+
+Life is the greatest learning platform and I believe that teaching is alternative way of learning.
+
+---
+
+## Research Interests
+
+- Deep Learning for Computer Vision (Natural & Medical Imaging)
+- Multi-task Learning
+- Explainable AI (Attention Mechanism, SHAP, Grad-CAM)
+- Regression model for medical imaging domain
+- Data Analytics
+
+---
+
+## Education
+
+- **PhD in Computer Science** – *Universiti Brunei Darussalam, Negara Brunei Darussalam* (2023 – Present)  
+- **MPhil. in Electronic System Engineering** – *Universiti Teknologi Malaysia, Malaysia* (2019 – 2022)  
+  - Thesis: *Alzheimer's Disease Classification using Attention Mechanism and Global Average Pooling on a Convolutional Neural Network*  
+- **B.Eng. in Electronic System Engineering** – *Universiti Teknologi Malaysia* (2015 – 2019)  
+  - Final Year Project: *Livestock Monitoring Using One-Shot Learning*
+- **Foundation in Science (*Sains Hayat*)** – *Universiti Malaya, Malaysia* (2014 – 2015)
+- **Upper Secondary School: MARA Junior Science College Taiping (Science Stream)** – *Perak, Malaysia* (2012 – 2013)
+- **Lower Secondary School: MARA Junior Science College Pendang (Science Stream)** – *Kedah, Malaysia* (2009 – 2011)
+
+---
 
