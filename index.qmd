@@ -11,27 +11,28 @@ page-layout: full
        style="border-radius: 50%; object-fit: cover;" alt="Amirah Hamid">
 
   <!-- Text Section -->
-  <div>
+  <div style="flex: 1;">
+    <h1 style="margin: 0; font-size: 2.2em;">Amirah Hamid</h1>
+    <hr style="border: none; border-top: 3px solid #444; width: 100%; margin: 8px 0;">
+    <p style="margin-top: 5px;">
+      Selamat Datang (Welcome!) to my personal knowledge repository.<br>
+      Join me on a journey of exploration and discovery.
+    </p>
 
-  <!-- Name with Longer Line -->
-  <h1 style="margin: 0; font-size: 2em;">Amirah Hamid</h1>
-  <hr style="border: none; border-top: 3px solid #444; width: 400px; margin: 8px 0;">
-
-  <!-- Intro -->
-  <p style="margin-top: 5px;">
-    Selamat Datang (Welcome!) to my personal knowledge repository.  
-    Join me on a journey of exploration and discovery.
-  </p>
-
+    <!-- Badges -->
+    <div style="margin-top: 10px;">
+      <a href="mailto:mirahhamid5496@gmail.com">
+        <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" alt="Email">
+      </a>
+      <a href="https://github.com/mirahhamid" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github" alt="GitHub">
+      </a>
+      <a href="https://www.linkedin.com/in/nur-amirah-abd-hamid/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn">
+      </a>
+    </div>
   </div>
 </div>
-
-<!-- Badge Section (Optional below this if you want) -->
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:mirahhamid5496@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/mirahhamid)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/nur-amirah-abd-hamid/)
-
-
 
 # Hi, I'm Nur Amirah 👋
 

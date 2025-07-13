@@ -2,35 +2,35 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "\nAmirah Hamid\n",
+    "title": "Hi, I’m Nur Amirah 👋",
     "section": "",
-    "text": "Selamat Datang (Welcome!) to my personal knowledge repository.\nJoin me on a journey of exploration and discovery."
+    "text": "&lt;h1 style=\"margin: 0; font-size: 2.2em;\"&gt;Amirah Hamid&lt;/h1&gt;\n&lt;hr style=\"border: none; border-top: 3px solid #444; width: 100%; margin: 8px 0;\"&gt;\n&lt;p style=\"margin-top: 5px;\"&gt;\n  Selamat Datang (Welcome!) to my personal knowledge repository.&lt;br&gt;\n  Join me on a journey of exploration and discovery.\n&lt;/p&gt;\n\n&lt;!-- Badges --&gt;\n&lt;div style=\"margin-top: 10px;\"&gt;\n  &lt;a href=\"mailto:mirahhamid5496@gmail.com\"&gt;\n    &lt;img src=\"https://img.shields.io/badge/Email-Contact-red?logo=gmail\" alt=\"Email\"&gt;\n  &lt;/a&gt;\n  &lt;a href=\"https://github.com/mirahhamid\" target=\"_blank\"&gt;\n    &lt;img src=\"https://img.shields.io/badge/GitHub-Profile-black?logo=github\" alt=\"GitHub\"&gt;\n  &lt;/a&gt;\n  &lt;a href=\"https://www.linkedin.com/in/nur-amirah-abd-hamid/\" target=\"_blank\"&gt;\n    &lt;img src=\"https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin\" alt=\"LinkedIn\"&gt;\n  &lt;/a&gt;\n&lt;/div&gt;"
   },
   {
     "objectID": "index.html#biography",
     "href": "index.html#biography",
-    "title": "\nAmirah Hamid\n",
+    "title": "Hi, I’m Nur Amirah 👋",
     "section": "🧬 Biography",
     "text": "🧬 Biography\nA passionate researcher with strong foundations in AI, deep learning, and medical imaging, I enjoy applying interpretable models to real-world clinical data. I have experience working with CNNs, Vision Transformers (ViT), and explainability tools like SHAP and Grad-CAM.\nPreviously, I served as a Research Assistant at UTM CAIRO, contributing to AI modeling and data analytics for semiconductor projects. I also have experience teaching undergraduate programming and data analytics."
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
-    "title": "\nAmirah Hamid\n",
+    "title": "Hi, I’m Nur Amirah 👋",
     "section": "🎓 Education",
     "text": "🎓 Education\n\nPhD in Computer Science – Universiti Brunei Darussalam (2023 – Present)\n\nMPhil. in Electronic System Engineering – MJIIT, UTM (2019 – 2022)\n\nThesis: Predicting Neuropsychological Test Scores based on Structural MRI using DL & XAI\n\n\nB.Eng. in Electronic System Engineering – MJIIT, UTM (2015 – 2019)\n\nFinal Year Project: Livestock Monitoring Using One-Shot Learning"
   },
   {
     "objectID": "index.html#research-interests",
     "href": "index.html#research-interests",
-    "title": "\nAmirah Hamid\n",
+    "title": "Hi, I’m Nur Amirah 👋",
     "section": "🔬 Research Interests",
     "text": "🔬 Research Interests\n\nAlzheimer’s Disease Prediction\nDeep Learning for Medical Imaging\nMulti-task Learning & Regression\nVision Transformers (ViT, SwinUNETR)\nExplainable AI (SHAP, Grad-CAM)"
   },
   {
     "objectID": "index.html#connect-with-me",
     "href": "index.html#connect-with-me",
-    "title": "\nAmirah Hamid\n",
+    "title": "Hi, I’m Nur Amirah 👋",
     "section": "📬 Connect with Me",
     "text": "📬 Connect with Me"
   },
