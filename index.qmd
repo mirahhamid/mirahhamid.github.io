@@ -4,6 +4,7 @@ format: html
 page-layout: full
 ---
 
+::: {=html}
 <div style="display: flex; align-items: center; gap: 40px; margin-bottom: 30px;">
 
   <!-- Profile Image -->
@@ -20,7 +21,7 @@ page-layout: full
     </p>
 
     <!-- Badges -->
-    <div style="margin-top: 10px;">
+    <div style="margin-top: 10px; display: flex; gap: 10px;">
       <a href="mailto:mirahhamid5496@gmail.com">
         <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" alt="Email">
       </a>
@@ -33,6 +34,8 @@ page-layout: full
     </div>
   </div>
 </div>
+:::
+
 
 # Hi, I'm Nur Amirah 👋
 
