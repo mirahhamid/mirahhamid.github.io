@@ -1,65 +1,72 @@
 ---
 title: ""
-format: html
-page-layout: full
+format:
+  html:
+    page-layout: full
+    raw-html: true
 ---
 
-<div style="display: flex; align-items: center; gap: 40px; margin-bottom: 30px;">
+::: {=html}
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 40px; margin-bottom: 30px;">
 
   <!-- Profile Image -->
-  <img src="images/profile_amirah.jpg" width="180px" height="180px"
-       style="border-radius: 50%; object-fit: cover;" alt="Amirah Hamid">
+  <img src="images/profile_amirah.jpg"
+       style="border-radius: 50%; object-fit: cover; width: 180px; height: 180px; max-width: 100%;"
+       alt="Amirah Hamid">
 
-  <!-- Text Section -->
-  <div>
-
-  <div style="font-size: 2.2em; font-weight: bold; margin: 0;">Amirah Hamid</div>
-  <hr style="border: none; border-top: 3px solid #444; width: 500px; margin: 8px 0;">
-
+  <!-- Text + Badge -->
+  <div style="flex: 1; min-width: 250px;">
+  <h2 style="margin: 0; font-size: 2.2em;">Amirah Hamid</h2>
   <p style="margin-top: 5px;">
-    Welcome to my personal knowledge repository.  
-    Join me on a journey of exploration and discovery.
+     Welcome to my personal knowledge repository. Join me on a journey of exploration and discovery.
   </p>
+  
 
+
+
+  <!-- Badge Links directly under paragraph -->
+  <div style="margin-top: 10px;">
+  <a href="mailto:mirahhamid5496@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail" alt="Email">
+  </a>
+    <a href="https://github.com/mirahhamid" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github" alt="GitHub">
+    </a>
+    <a href="https://www.linkedin.com/in/nur-amirah-abd-hamid/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn">
+    </a>
+  </div>
   </div>
 </div>
-
-<!-- Badge Links below -->
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:mirahhamid5496@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/mirahhamid)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/nur-amirah-abd-hamid/)
-
+:::
 
 ---
 
 ## Biography
 
-I'm a PhD Candidate in Computer Science at the School of Digital Science, Universiti Brunei Darussalam. A passionate researcher with strong foundations in **AI**, **deep learning** and **computer vision**. I have experience working with CNNs, Vision Transformers (ViT), and explainability tools like SHAP and Grad-CAM.
+I'm a PhD Candidate in Computer Science at the School of Digital Science, Universiti Brunei Darussalam. A passionate researcher with strong foundations in AI, deep learning and computer vision. I have experience working with CNNs, Vision Transformers (ViT), and explainability tools like SHAP and Grad-CAM.
 
-Life is the greatest learning platform and I believe that teaching is alternative way of learning.
+*Life is the greatest learning platform and I believe that teaching is alternative way of learning.*
 
 ---
 
 ## Research Interests
 
-- Deep Learning for Computer Vision (Natural & Medical Imaging)
-- Multi-task Learning
-- Explainable AI (Attention Mechanism, SHAP, Grad-CAM)
-- Regression model for medical imaging domain
-- Data Analytics
+- Deep Learning for Computer Vision (Natural & Medical Imaging)  
+- Multi-task Learning  
+- Explainable AI (Attention Mechanism, SHAP, Grad-CAM)  
+- Regression model for medical imaging domain  
+- Data Analytics  
 
 ---
 
 ## Education
 
-- **PhD in Computer Science** – *Universiti Brunei Darussalam, Negara Brunei Darussalam* (2023 – Present)  
+- **PhD Cand. in Computer Science** – *Universiti Brunei Darussalam, Negara Brunei Darussalam* (2023 – Present)  
 - **MPhil. in Electronic System Engineering** – *Universiti Teknologi Malaysia, Malaysia* (2019 – 2022)  
   - Thesis: *Alzheimer's Disease Classification using Attention Mechanism and Global Average Pooling on a Convolutional Neural Network*  
 - **B.Eng. in Electronic System Engineering** – *Universiti Teknologi Malaysia* (2015 – 2019)  
-  - Final Year Project: *Livestock Monitoring Using One-Shot Learning*
-- **Foundation in Science (*Sains Hayat*)** – *Universiti Malaya, Malaysia* (2014 – 2015)
-- **Upper Secondary School: MARA Junior Science College Taiping (Science Stream)** – *Perak, Malaysia* (2012 – 2013)
-- **Lower Secondary School: MARA Junior Science College Pendang (Science Stream)** – *Kedah, Malaysia* (2009 – 2011)
-
----
-
+  - Final Year Project: *Livestock Monitoring Using One-Shot Learning*  
+- **Foundation in Science (*Sains Hayat*)** – *Universiti Malaya, Malaysia* (2014 – 2015)  
+- **Upper Secondary School: MARA Junior Science College Taiping (Science Stream)** – *Perak, Malaysia* (2012 – 2013)  
+- **Lower Secondary School: MARA Junior Science College Pendang (Science Stream)** – *Kedah, Malaysia* (2009 – 2011)  

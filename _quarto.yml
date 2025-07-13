@@ -14,7 +14,7 @@ website:
       - href: LifeHub.qmd
         text: Life Hub
   page-footer:
-    left: "Copyright 2024 © Nur Amirah. Developed with [Quarto](https://quarto.org)"
+    left: "Copyright 2024 © Amirah Hamid. Developed with [Quarto](https://quarto.org)"
 
 format:
   html:
